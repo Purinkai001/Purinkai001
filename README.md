@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Purinkai001
-- 👀 I’m interested in choco-banana
-- 🌱 I’m currently learning python?
-- 💞️ I’m looking to collaborate on alot of stuff
-- 📫 How to reach me Stand at the top of mount Everest then shout "Hey Babe" 3 times and start paragliding
+
